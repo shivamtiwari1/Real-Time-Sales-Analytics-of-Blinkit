@@ -52,7 +52,7 @@ This project presents a **real-time sales analytics solution for Blinkit**, util
 
 ## Projects Demonstration Links 
 - ** Screenshots: https://drive.google.com/drive/folders/1Acgup3bqQ0BNerj6u8hy8SPsoApOi8Ht?usp=sharing
-- ** video representation: 
+- ** video representation: https://drive.google.com/file/d/1P1kldW2Ob1IpO_J53X2HnxJ3YQdspcTc/view?usp=sharing
 - ** PPTX Presentation: https://docs.google.com/presentation/d/1aLw4xxfYfHwvX036LrNJCN2lSgmW7nP8/edit?usp=sharing&ouid=101510631044161991942&rtpof=true&sd=true  
 
 ## Contact  
