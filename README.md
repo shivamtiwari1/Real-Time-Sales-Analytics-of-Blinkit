@@ -21,8 +21,7 @@ This project presents a **real-time sales analytics solution for Blinkit**, util
 ## Installation & Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo/blinkit-sales-analytics.git
-   ```
+   git clone https://github.com/shivamtiwari1/Real-Time-Sales-Analytics-of-Blinkit.git
 2. Install required dependencies (if applicable).  
 3. Configure data sources and set up Power BI reports.  
 4. Run SQL scripts for data preprocessing and transformation.  
