@@ -1,7 +1,3 @@
-Certainly! Based on your project report on **Real-Time Sales Analytics of Blinkit**, here's a professional and structured GitHub README file that highlights key aspects of your project:
-
----
-
 # Real-Time Sales Analytics of Blinkit  
 
 ## Overview  
